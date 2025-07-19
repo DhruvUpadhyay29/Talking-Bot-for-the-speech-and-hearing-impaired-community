@@ -44,7 +44,7 @@ Talkative-Bot/
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/talkative-bot.git
+   git clone https://github.com/DhruvUpadhyay29/talkative-bot.git
    cd talkative-bot
    ```
 
